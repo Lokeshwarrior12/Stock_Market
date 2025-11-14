@@ -1,0 +1,24 @@
+# Core libraries
+numpy
+pandas
+yfinance
+scikit-learn
+matplotlib
+plotly
+mplfinance
+
+# Technical Indicators
+ta
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# NLP and Sentiment (for later)
+transformers
+nltk
+
+# Utils and Configuration
+pyyaml
+tqdm
