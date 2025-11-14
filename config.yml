@@ -1,0 +1,16 @@
+api_keys:
+  alpha_vantage: "YOUR_KEY"
+  financial_modeling_prep: "YOUR_KEY"
+  news_api: "YOUR_KEY"
+  openai: "YOUR_KEY"  # For GenAI features
+
+data:
+  stock_symbol: "AAPL"
+  start_date: "2015-01-01"
+  end_date: "2025-11-11"
+
+model:
+  lookback_days: 60
+  prediction_horizon: [1, 5, 10, 30]
+  batch_size: 32
+  epochs: 100
